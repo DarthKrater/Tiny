@@ -33,7 +33,6 @@ var drawMonkey=function(Monkey){
    fill(105, 89, 89);
     ellipse(340,340,100,100);
    fill(20, 18, 18);
-   arc(280,310,300,300,300,320); 
 fill(105,89,89);
 rect(280,280,20,50);
 fill(255, 0, 0);
